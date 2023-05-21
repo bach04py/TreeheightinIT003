@@ -1,0 +1,10 @@
+20 Thoi gian chay avltree là : 0.316
+20 Thoi gian chay avltree là : 0.263
+24 Thoi gian chay avltree là : 1.138
+24 Thoi gian chay avltree là : 1.216
+23 Thoi gian chay avltree là : 0.647
+21 Thoi gian chay avltree là : 0.158
+24 Thoi gian chay avltree là : 1.12
+21 Thoi gian chay avltree là : 0.22
+24 Thoi gian chay avltree là : 1.189
+22 Thoi gian chay avltree là : 0.2

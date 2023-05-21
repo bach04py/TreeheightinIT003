@@ -1,0 +1,10 @@
+36 Thoi gian chay rbtree là : 0.184
+36 Thoi gian chay rbtree là : 0.14
+24 Thoi gian chay rbtree là : 0.805
+25 Thoi gian chay rbtree là : 0.8
+23 Thoi gian chay rbtree là : 0.523
+22 Thoi gian chay rbtree là : 0.134
+24 Thoi gian chay rbtree là : 0.759
+22 Thoi gian chay rbtree là : 0.131
+24 Thoi gian chay rbtree là : 0.697
+22 Thoi gian chay rbtree là : 0.135
